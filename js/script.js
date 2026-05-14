@@ -1,4 +1,4 @@
-/* ./js/script.js of Silus-text for Silus-text.bauska.org */
+/* ./js/script.js of Silus-Text for Silus-Text.bauska.org */
 const selectSVG = id => {
   const el = document.getElementById(id);
   return new SVGElement(el);
